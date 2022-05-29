@@ -16,7 +16,7 @@ socials:
     # facebook: "YOUR_NAME"
     # linkedin: "YOUR_NAME"
     # twitch: "YOUR_NAME"
-    google_scholar: "TODO"
+    google_scholar: "citations?user=XgBZfiUAAAAJ"
 
 interests:
     - Cybercrime
