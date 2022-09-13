@@ -8,7 +8,7 @@ date: "2022-05-26"
 publication: "43rd IEEE Symposium on Security and Privacy (IEEE S&P Oakland'22)"
 
 links:
-    pdf: papers/icse20-comp.pdf
+    pdf: papers/sp22-gambling.pdf
     # code: https://github.com/deluser8/cmtracker
     # slides: https://github.com/hadisinaee/avicenna
     # video: https://www.youtube.com/watch?v=y10xPHZGs3M&list=PLn0nrSd4xjjbyUeai0oevMrT8_IwnBo4R

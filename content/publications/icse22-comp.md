@@ -7,7 +7,7 @@ date: "2020-06-27"
 publication: "In Proceedings of the 42nd International Conference on Software Engineering (ACM ICSE'20)"
 
 links:
-    pdf: papers/ccs18-invetter.pdf
+    pdf: papers/icse20-comp.pdf
     # code: https://github.com/zzzxxxlll/Invetter-os
     # slides: https://github.com/hadisinaee/avicenna
     # video: https://www.youtube.com/watch?v=y10xPHZGs3M&list=PLn0nrSd4xjjbyUeai0oevMrT8_IwnBo4R
