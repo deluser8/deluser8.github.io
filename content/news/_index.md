@@ -11,6 +11,12 @@ default_news_icon: "file-text"
 num_news: 5
 
 news_items:
+- text: "Join Cyberspace International Governance Research Center, Fudan University as a Facluty"
+  extra_text: "Dec 2022."
+  date: 2022-12-06
+- text: "Win ACM SIGSAC China Doctoral Dissertation Award."
+  extra_text: "Nov 2022."
+  date: 2022-11-29
 - text: "Present our paper [Analyzing Ground-Truth Data of Mobile Gambling Scams](https://www.xiaojingliao.com/uploads/9/7/0/2/97024238/oakland22-gambling_scam_apps.pdf) on IEEE S&P(Oakland) 22!"
   extra_text: "May 2022."
   date: 2022-05-26
