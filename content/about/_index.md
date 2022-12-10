@@ -26,14 +26,19 @@ interests:
 
 affiliations:
     - affiliation:
-        title: "Ph.D."
-        name: "Fudan University"
-        email: "ghong17@fudan.edu.cn"
+        title: "Assistant Professor"
+        name: "Cyberspace International Governance Research Center, Fudan University"
+        # email: "ghong@fudan.edu.cn"
     # - affiliation:
-        # title: "CEO & Co-Founder"
-        # name: "The Coolest Startup In the World"
-        # email: "email@mycoolstartup.ai"
-
+        # title: "Ph.D."
+        # name: "[System Software and Security Group](https://secsys.fudan.edu.cn/main.htm), Fudan University"
+        # name: "System Software and Security Group"
+        # email: "ghong@fudan.edu.cn"
+    - affiliation:
+        title: "System Software and Security Group"
+        name: "School of Computer Science, Fudan University"
+        email: "ghong@fudan.edu.cn"
+    
 academia:
     - course:
         degree: "Ph.D."
@@ -59,7 +64,9 @@ academia:
 ---
 
 
-I recently received my Ph.D. in Computer Science at Fudan University. My research interests include Cybercrime, Privacy on Mobile App, as well as Novel Cybersecurity Threat.
+I’m an Assistant Professor at Cyberspace International Governance Research Center, Fudan University, also a faculty of [System Software and Security Group](https://secsys.fudan.edu.cn/main.htm) in School of Computer Science. I received my Ph.D. in Computer Science at Fudan University in June 2022, advised by Prof. [Min Yang](https://scholar.google.com/citations?user=UnKf9FIAAAAJ). My research interests include Cybercrime, Privacy on Mobile App, as well as Novel Cybersecurity Threats. 
+
+I'm looking forward to self-driven students with a keen interest in cybercrime, mobile security, or mobile privacy. If you're interested, just email me your resume.
 
 
 <!-- **Donec** sollicitudin, [ante][1] pulvinar tincidunt luctus, dolor mauris lobortis ex, id tincidunt metus risus nec ex. Curabitur magna mauris, facilisis vitae porttitor vitae, tincidunt sed mi. In at dui lectus. Integer ante arcu, vestibulum fermentum ante eu, maximus maximus quam. Curabitur placerat cursus posuere. Phasellus dui lorem, varius a augue non, eleifend accumsan mauris. Aenean varius posuere feugiat. In hac habitasse platea dictumst. Aenean quis ex quis nisl consequat fermentum in vitae nunc. Proin consectetur ac nulla in tempus. Maecenas enim nisi, pulvinar sit amet fermentum eget, ultrices vitae enim. Etiam vel sollicitudin felis. -->
