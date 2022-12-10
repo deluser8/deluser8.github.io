@@ -49,12 +49,12 @@ academia:
     
     - course:
         degree: "Exchange Student"
-        institution: 'Taiwan University (NTU)'
+        institution: 'National Taiwan University (NTU)'
         major: ''
         start_date: '2015.2'
         end_date: '2015.6'
         # other_info: 'graduated with honor'
-        
+
     - course:
         degree: "B.E."
         institution: 'Xiamen University'
