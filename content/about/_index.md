@@ -46,12 +46,7 @@ academia:
         end_date: '2022.6'
         major: "Computer Science"
         start_date: "2017.9"
-    - course:
-        degree: "B.E."
-        institution: 'Xiamen University'
-        major: 'Computer Science'
-        start_date: '2013.9'
-        end_date: '2017.6'
+    
     - course:
         degree: "Exchange Student"
         institution: 'Taiwan University (NTU)'
@@ -60,6 +55,12 @@ academia:
         end_date: '2015.6'
         # other_info: 'graduated with honor'
         
+    - course:
+        degree: "B.E."
+        institution: 'Xiamen University'
+        major: 'Computer Science'
+        start_date: '2013.9'
+        end_date: '2017.6'    
         
 ---
 
