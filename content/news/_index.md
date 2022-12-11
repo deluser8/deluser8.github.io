@@ -11,7 +11,7 @@ default_news_icon: "file-text"
 num_news: 5
 
 news_items:
-- text: "Join Cyberspace International Governance Research Center, Fudan University as a Facluty"
+- text: "Join Cyberspace International Governance Research Center, Fudan University as a faculty"
   extra_text: "Dec 2022."
   date: 2022-12-06
 - text: "Win ACM SIGSAC China Doctoral Dissertation Award."
