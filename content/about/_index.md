@@ -37,7 +37,7 @@ affiliations:
     - affiliation:
         title: "System Software and Security Group"
         name: "School of Computer Science, Fudan University"
-        email: "ghong@fudan.edu.cn"
+        email: "ghong[at]fudan.edu.cn"
     
 academia:
     - course:

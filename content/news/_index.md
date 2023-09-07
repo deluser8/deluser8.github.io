@@ -11,18 +11,25 @@ default_news_icon: "file-text"
 num_news: 5
 
 news_items:
-- text: "Join Cyberspace International Governance Research Center, Fudan University as a faculty"
+- text: NSFC has awarded me a grant for the proposal titled "Iteration-Based Detection Method for Underground Mobile Applications". Grateful to NSFC!
+  extra_text: "Aug 2023."
+  date: 2023-08-23
+- text: I have been awarded the Fudan Policy Advisory Research Support Program.
+  extra_text: "Jul 2023."
+  date: 2023-07-27
+- text: Joined the Cyberspace International Governance Research Center at Fudan University as a faculty member.
   extra_text: "Dec 2022."
   date: 2022-12-06
-- text: "Win ACM SIGSAC China Doctoral Dissertation Award."
+- text: Honored to receive the ACM SIGSAC China Doctoral Dissertation Award.
   extra_text: "Nov 2022."
   date: 2022-11-29
-- text: "Present our paper [Analyzing Ground-Truth Data of Mobile Gambling Scams](https://www.xiaojingliao.com/uploads/9/7/0/2/97024238/oakland22-gambling_scam_apps.pdf) on IEEE S&P(Oakland) 22!"
+- text: "Presented our paper [Analyzing Ground-Truth Data of Mobile Gambling Scams](https://www.xiaojingliao.com/uploads/9/7/0/2/97024238/oakland22-gambling_scam_apps.pdf) at IEEE S&P(Oakland) 22!"
   extra_text: "May 2022."
   date: 2022-05-26
-- text: "Successfully defense my Ph.D. thesis! What a Big Day!"
+- text: "uccessfully defended my Ph.D. thesis! A significant milestone!"
   extra_text: "May 2022."
   date: 2022-05-18
+
 # - text: "How to deploy in the era of cloud services?"
 #   link: https://https://feathericons.com//
 #   extra_text: "Software Engineering Daily Podcast, Feb. 2021."
