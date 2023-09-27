@@ -27,7 +27,7 @@ interests:
 affiliations:
     - affiliation:
         title: "Assistant Professor"
-        name: "Cyberspace International Governance Research Center, Fudan University"
+        name: "Fudan Development Institute, Fudan University"
         # email: "ghong@fudan.edu.cn"
     # - affiliation:
         # title: "Ph.D."
