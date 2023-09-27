@@ -49,7 +49,7 @@ academia:
     
     - course:
         degree: "Exchange Student"
-        institution: 'National Taiwan University (NTU)'
+        institution: 'Taiwan University (NTU)'
         major: ''
         start_date: '2015.2'
         end_date: '2015.6'
@@ -65,7 +65,7 @@ academia:
 ---
 
 
-I’m an Assistant Professor at Cyberspace International Governance Research Center, Fudan University, also a faculty of [System Software and Security Group](https://secsys.fudan.edu.cn/main.htm) in School of Computer Science. I received my Ph.D. in Computer Science at Fudan University in June 2022, advised by Prof. [Min Yang](https://scholar.google.com/citations?user=UnKf9FIAAAAJ). My research interests include Cybercrime, Privacy on Mobile App, as well as Novel Cybersecurity Threats. 
+I’m an Assistant Professor at Fudan Development Institute, Fudan University, also a faculty of [System Software and Security Group](https://secsys.fudan.edu.cn/main.htm) in School of Computer Science. I received my Ph.D. in Computer Science at Fudan University in June 2022, advised by Prof. [Min Yang](https://scholar.google.com/citations?user=UnKf9FIAAAAJ). My research interests include Cybercrime, Privacy on Mobile App, as well as Novel Cybersecurity Threats. 
 
 I'm looking forward to self-driven students with a keen interest in cybercrime, mobile security, or mobile privacy. If you're interested, just email me your resume.
 

@@ -17,7 +17,7 @@ news_items:
 - text: I have been awarded the Fudan Policy Advisory Research Support Program.
   extra_text: "Jul 2023."
   date: 2023-07-27
-- text: Joined the Cyberspace International Governance Research Center at Fudan University as a faculty member.
+- text: Joined the Fudan Development Institute at Fudan University as a faculty member.
   extra_text: "Dec 2022."
   date: 2022-12-06
 - text: Honored to receive the ACM SIGSAC China Doctoral Dissertation Award.
