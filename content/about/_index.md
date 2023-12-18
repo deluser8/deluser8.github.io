@@ -46,6 +46,7 @@ academia:
         end_date: '2022.6'
         major: "Computer Science"
         start_date: "2017.9"
+        external_link: https://example.org/
     
     - course:
         degree: "Exchange Student"

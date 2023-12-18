@@ -7,7 +7,7 @@ date: "2023-11-26"
 publication: "30th ACM SIGSAC Conference on Computer and Communications Security (ACM CCS'23)"
 
 links:
-    # pdf: papers/sp22-gambling.pdf
+    pdf: papers/ccs23a-pool.pdf
     # code: https://github.com/deluser8/cmtracker
     # slides: https://github.com/hadisinaee/avicenna
     # video: https://www.youtube.com/watch?v=y10xPHZGs3M&list=PLn0nrSd4xjjbyUeai0oevMrT8_IwnBo4R
