@@ -4,7 +4,7 @@ authors:
 - 陈沛*，洪赓*，邬梦莹，陈晋松，段海新，杨珉
 date: "2024-01-01"
 
-publication: "Journal of Software （软件学报）"
+publication: "Journal of Software（软件学报）"
 
 links:
     # pdf: papers/jcrd21-sok.pdf

@@ -11,6 +11,9 @@ default_news_icon: "file-text"
 num_news: 5
 
 news_items:
+- text: I, co-supervised with Professor Min Yang, lead an undergraduate team, with their project 'Zhu Yuan - Cybercrimial Asset Radar,' won the grand prize at the 18th 'Challenge Cup' National College Students’ Extracurricular Academic Science and Technology Works Contest(“挑战杯”全国大学生课外学术科技作品竞赛). This marks the best record in the history of our department.
+  extra_text: "Oct 2023."
+  date: 2023-10-27
 - text: NSFC has awarded me a grant for the proposal titled "Iteration-Based Detection Method for Underground Mobile Applications". Grateful to NSFC!
   extra_text: "Aug 2023."
   date: 2023-08-23
