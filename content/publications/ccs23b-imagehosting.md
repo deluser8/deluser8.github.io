@@ -4,7 +4,7 @@ authors:
 - Geng Hong, Mengying Wu, Pei Chen, Xiaojing Liao, Guoyi Ye, Min Yang
 date: "2023-11-26"
 
-publication: "30th ACM SIGSAC Conference on Computer and Communications Security (ACM CCS'23)"
+publication: "30th ACM SIGSAC Conference on Computer and Communications Security (ACM CCS'23, CCF-A)"
 
 links:
     pdf: papers/ccs23b-imagehosting.pdf

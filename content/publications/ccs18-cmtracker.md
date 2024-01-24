@@ -5,7 +5,7 @@ authors:
 - Zhemin Yang, Sen Yang, Lei Zhang, Yuhong Nan, Zhibo Zhang, Min Yang, Yuan Zhang, Zhiyun Qian and Haixin Duan
 date: "2018-10-25"
 
-publication: "25th ACM SIGSAC Conference on Computer and Communications Security (ACM CCS'18)"
+publication: "25th ACM SIGSAC Conference on Computer and Communications Security (ACM CCS'18, CCF-A)"
 
 links:
     pdf: papers/ccs18-cmtracker.pdf

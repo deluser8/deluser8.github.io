@@ -4,7 +4,7 @@ authors:
 - Zhenrui Zhang*, Geng Hong*, Xiang Li, Zhuoqun Fu, Jia Zhang, Mingxuan Liu, Chuhan Wang, Jianjun Chen, Baojun Liu, Haixin Duan, Chao Zhang, Min Yang
 date: "2023-11-26"
 
-publication: "30th ACM SIGSAC Conference on Computer and Communications Security (ACM CCS'23)"
+publication: "30th ACM SIGSAC Conference on Computer and Communications Security (ACM CCS'23, CCF-A)"
 
 links:
     pdf: papers/ccs23a-pool.pdf

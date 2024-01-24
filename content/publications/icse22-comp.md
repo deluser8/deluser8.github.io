@@ -4,7 +4,7 @@ authors:
 -  Hao Xia, Yuan Zhang, Yingtian Zhou, Xiaoting Chen, Yang Wang, Xiangyu Zhang, Shuaishuai Cui, Geng Hong, Xiaohan Zhang, Min Yang and Zhemin Yang
 date: "2020-06-27"
 
-publication: "In Proceedings of the 42nd International Conference on Software Engineering (ACM ICSE'20)"
+publication: "In Proceedings of the 42nd International Conference on Software Engineering (ACM ICSE'20, CCF-A)"
 
 links:
     pdf: papers/icse20-comp.pdf

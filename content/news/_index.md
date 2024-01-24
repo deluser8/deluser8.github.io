@@ -11,6 +11,12 @@ default_news_icon: "file-text"
 num_news: 5
 
 news_items:
+- text: Happy to find that our paper, Uncovering the Rise of Visual Scams in Cryptocurrency Wallets, has been accepted by WWW'24. Special congratulations to [Guoyi](https://scholar.google.com/citations?user=TUen9P4AAAAJ) for publishing his first top-tier paper during his first year as a master's student.
+  extra_text: "Jan 2024."
+  date: 2024-01-23
+- text: Honored to join the [Technical Program Committee (TPC)](https://www.sigsac.org/ccs/CCS2024/organization/prog-committee.html) of ACM CCS 2024. Warmly invite you to submit papers to our venue and hope to meet you in Salt Lake City.
+  extra_text: "Jan 2024."
+  date: 2024-01-24
 - text: Attended the 30th ACM CCS in Copenhagen, Denmark. Delivered a presentation on the security risks associated with mini-apps. Additionally, participated in a panel discussion hosted by Professors Zhiqiang Lin and Luyi Xing.
   extra_text: "Nov 2023."
   date: 2023-11-27

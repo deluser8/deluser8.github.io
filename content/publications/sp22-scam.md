@@ -5,7 +5,7 @@ authors:
 - Zhemin Yang, Sen Yang, Xiaojing Liao, Xiaolin Du, Min Yang and Haixin Duan
 date: "2022-05-26"
 
-publication: "43rd IEEE Symposium on Security and Privacy (IEEE S&P Oakland'22)"
+publication: "43rd IEEE Symposium on Security and Privacy (IEEE S&P Oakland'22, CCF-A)"
 
 links:
     pdf: papers/sp22-gambling.pdf
