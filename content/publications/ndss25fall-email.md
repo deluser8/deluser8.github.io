@@ -2,7 +2,7 @@
 title: "HADES Attack: Understanding and Evaluating Manipulation Risks of Email Blocklists"
 authors:
 - Ruixuan Li , Chaoyi Lu, Baojun Liu, Yunyi Zhang, Geng Hong, Haixin Duan, Yanzhong Lin,Qingfeng Pan,Min Yang,Jun Shao
-date: "2024-9-21"
+date: "2024-09-21"
 
 publication: "the Network and Distributed System Security (NDSS) Symposium 2025 (NDSS'25, CCF-A)"
 

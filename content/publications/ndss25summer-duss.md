@@ -2,7 +2,7 @@
 title: "Misdirection of Trust: Demystifying the Abuse of Dedicated URL Shortening Service"
 authors:
 - Zhibo Zhang, Lei Zhang, Zhangyue Zhang, Geng Hong, Yuan Zhang, Min Yang
-date: "2024-9-11"
+date: "2024-09-11"
 
 publication: "the Network and Distributed System Security (NDSS) Symposium 2025 (NDSS'25, CCF-A)"
 
