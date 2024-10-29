@@ -16,7 +16,10 @@ news_items:
   date: 2024-10-20
 - text: Our paper has been accepted by NDSS 25 (summer cycle). Congratulations to Zhibo.
   extra_text: "Sept 2024."
-  date: 2024-9-20
+  date: 2024-09-20
+- text: It is a pleasure to cowork with colleagues from the [Shanghai Municipal Education Commission](https://edu.sh.gov.cn/).
+  extra_text: "Jun 2024."
+  date: 2024-06-08
 - text: Happy to find that our paper, Uncovering the Rise of Visual Scams in Cryptocurrency Wallets, has been accepted by WWW'24. Special congratulations to [Guoyi](https://scholar.google.com/citations?user=TUen9P4AAAAJ) for publishing his first top-tier paper during his first year as a master's student.
   extra_text: "Jan 2024."
   date: 2024-01-23

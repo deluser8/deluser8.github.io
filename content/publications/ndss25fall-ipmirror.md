@@ -7,7 +7,7 @@ date: "2024-10-20"
 publication: "the Network and Distributed System Security (NDSS) Symposium 2025 (NDSS'25, CCF-A)"
 
 links:
-    coming soon: https://ghong.site
+    coming_soon: https://ghong.site
     # pdf: papers/ndss25summer-duss.pdf 
     # code: https://github.com/deluser8/cmtracker
     # slides: https://github.com/hadisinaee/avicenna
