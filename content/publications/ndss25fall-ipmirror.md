@@ -1,12 +1,13 @@
 ---
 title: "Revealing the black box of device search engine: scanning assets, strategies, and ethical consideration"
 authors:
-- Mengying Wu, Geng Hong, Jinsong Chen, Qi Liu, Shujun Tang, Youhao Li, Baojun Liu,Haixin Duan,Min Yang
+- Mengying Wu, Geng Hong, Jinsong Chen, Qi Liu, Shujun Tang, Youhao Li, Baojun Liu, Haixin Duan, Min Yang
 date: "2024-10-20"
 
 publication: "the Network and Distributed System Security (NDSS) Symposium 2025 (NDSS'25, CCF-A)"
 
 links:
+    coming soon: https://ghong.site
     # pdf: papers/ndss25summer-duss.pdf 
     # code: https://github.com/deluser8/cmtracker
     # slides: https://github.com/hadisinaee/avicenna
