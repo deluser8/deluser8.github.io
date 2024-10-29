@@ -1,13 +1,13 @@
 ---
-title: "Misdirection of Trust: Demystifying the Abuse of Dedicated URL Shortening Service"
+title: "Revealing the black box of device search engine: scanning assets, strategies, and ethical consideration"
 authors:
-- Zhibo Zhang, Lei Zhang, Zhangyue Zhang, Geng Hong, Yuan Zhang, Min Yang
-date: "2024-9-11"
+- Mengying Wu, Geng Hong, Jinsong Chen, Qi Liu, Shujun Tang, Youhao Li, Baojun Liu,Haixin Duan,Min Yang
+date: "2024-10-20"
 
 publication: "the Network and Distributed System Security (NDSS) Symposium 2025 (NDSS'25, CCF-A)"
 
 links:
-    pdf: papers/ndss25summer-duss.pdf 
+    # pdf: papers/ndss25summer-duss.pdf 
     # code: https://github.com/deluser8/cmtracker
     # slides: https://github.com/hadisinaee/avicenna
     # video: https://www.youtube.com/watch?v=y10xPHZGs3M&list=PLn0nrSd4xjjbyUeai0oevMrT8_IwnBo4R
