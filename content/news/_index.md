@@ -11,7 +11,7 @@ default_news_icon: "file-text"
 num_news: 5
 
 news_items:
-- text: Our paper has been accepted by ICSE 25 (second cycle). Congratulations to Mengying once again! She has published two papers (NDSS and ICSE) within a single month XD!
+- text: Our paper has been accepted by ICSE 25 (second cycle). Congratulations to Mengying once again! She published two papers (NDSS and ICSE) within a single month XD!
   extra_text: "Oct 2024."
   date: 2024-10-31
 
