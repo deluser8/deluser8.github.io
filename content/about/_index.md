@@ -66,7 +66,7 @@ academia:
 ---
 
 
-I’m an Assistant Professor at Fudan Development Institute, Fudan University, also a faculty of [System Software and Security Group](https://secsys.fudan.edu.cn/main.htm) in School of Computer Science. I received my Ph.D. in Computer Science at Fudan University in June 2022, advised by Prof. [Min Yang](https://scholar.google.com/citations?user=UnKf9FIAAAAJ). My research interests include Cybercrime, Privacy on Mobile App, as well as Novel Cybersecurity Threats. 
+I’m an Assistant Professor at Fudan Development Institute, Fudan University, also a faculty of [System Software and Security Group](https://secsys.fudan.edu.cn/main.htm) in School of Computer Science. I received my Ph.D. in Computer Science at Fudan University in June 2022, advised by Prof. [Min Yang](https://scholar.google.com/citations?user=UnKf9FIAAAAJ). My research interests include Cybercrime, Privacy on Mobile App, as well as Novel Cybersecurity Threats. I also serve as member of Program Committee of several top-tier conference, such ACM CCS 24, CCS 25, ACM WWW 25, etc. 
 
 I'm looking forward to self-driven students with a keen interest in cybercrime, mobile security, or mobile privacy. If you're interested, just email me your resume.
 
