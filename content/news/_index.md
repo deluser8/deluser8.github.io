@@ -11,7 +11,7 @@ default_news_icon: "file-text"
 num_news: 5
 
 news_items:
-- text: Serve as ACM WWW'25 Security Seviewer!
+- text: Serve as ACM WWW'25 Security Reviewer.
   extra_text: "Nov 2024."
   date: 2024-11-11
 
