@@ -8,7 +8,15 @@ headless: true
 show_news_icons: true
 default_news_icon: "file-text"
 
-num_news: 5
+num_news: 10
+
+
+- text: Our paper has been accepted by WWW 25 (oral). Congratulations to Maiwuwu XD! 
+  extra_text: "Jan 2025."
+  date: 2025-01-20
+
+
+
 
 news_items:
 - text: Serve as ACM WWW'25 Security Reviewer.
