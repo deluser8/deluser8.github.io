@@ -16,8 +16,8 @@ news_items:
   date: 2025-01-20
 
 - text: Honored to join the [Technical Program Committee (TPC)](https://www.sigsac.org/ccs/CCS2025/program-committee/) of ACM CCS 2025. Warmly invite you to submit papers to our venue and hope to meet you in Taipei.
-  extra_text: "Jan 2024."
-  date: 2024-01-15
+  extra_text: "Jan 2025."
+  date: 2025-01-15
 
 
 - text: Serve as ACM WWW'25 Security Reviewer.
