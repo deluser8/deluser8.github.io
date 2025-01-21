@@ -7,6 +7,7 @@ date: "2021-10-01"
 publication: "Journal of Computer Research and Development （计算机研究与发展）"
 
 links:
+    link: https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.2021.20210855
     pdf: papers/jcrd21-sok.pdf
     # code: https://github.com/deluser8/cmtracker
     # slides: https://github.com/hadisinaee/avicenna

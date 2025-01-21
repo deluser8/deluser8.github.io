@@ -7,7 +7,8 @@ date: "2024-01-01"
 publication: "Journal of Software（软件学报）"
 
 links:
-    # pdf: papers/jcrd21-sok.pdf
+    link: https://jos.org.cn/jos/article/abstract/7122
+    pdf: papers/jos24-appdelivery.pdf
     # code: https://github.com/deluser8/cmtracker
     # slides: https://github.com/hadisinaee/avicenna
     # video: https://www.youtube.com/watch?v=y10xPHZGs3M&list=PLn0nrSd4xjjbyUeai0oevMrT8_IwnBo4R
