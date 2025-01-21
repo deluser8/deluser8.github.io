@@ -1,7 +1,7 @@
 ---
 title: "You Can't Eat Your Cake and Have It Too: The Performance Degradation of LLMs with Jailbreak Defense"
 authors:
-- Wuyuao Mai, Geng Hong, Pei Chen, Xudong Pan, Baojun Liu, Yuan Zhang, Haixin Duan, Min Yang
+- Wuyuao Mai*, Geng Hong*, Pei Chen, Xudong Pan, Baojun Liu, Yuan Zhang, Haixin Duan, Min Yang
 date: "2025-01-20"
 
 publication: "The Web Conference 2025 (ACM WWW 25, CCF-A)"
