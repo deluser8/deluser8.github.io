@@ -7,8 +7,8 @@ date: "2025-01-20"
 publication: "The Web Conference 2025 (ACM WWW 25, CCF-A)"
 
 links:
-    # pdf: papers/www24-visualscam.pdf
-    coming_soon: https://ghong.site/
+    pdf: papers/www25-usebench.pdf
+    # coming_soon: https://ghong.site/
     # code: https://github.com/deluser8/cmtracker
     # slides: https://github.com/hadisinaee/avicenna
     # video: https://www.youtube.com/watch?v=y10xPHZGs3M&list=PLn0nrSd4xjjbyUeai0oevMrT8_IwnBo4R
