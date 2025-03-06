@@ -12,6 +12,11 @@ num_news: 15
 
 news_items:
 
+
+- text: Attended the NDSS 2025 in San Diego, California. 
+  extra_text: "Feb 2025."
+  date: 2025-02-23
+
 - text: Our paper has been accepted by USENIX Security 25. Congratulations to  Mingxuan.
   extra_text: "Jan 2025."
   date: 2025-01-25
@@ -38,9 +43,11 @@ news_items:
 - text: Our two papers have been accepted by NDSS 25 (fall cycle). Congratulations to Mengying and Ruixuan.
   extra_text: "Oct 2024."
   date: 2024-10-20
+
 - text: Our paper has been accepted by NDSS 25 (summer cycle). Congratulations to Zhibo.
   extra_text: "Sept 2024."
   date: 2024-09-20
+
 - text: It is a pleasure to cowork with colleagues from the [Shanghai Municipal Education Commission](https://edu.sh.gov.cn/).
   extra_text: "Jun 2024."
   date: 2024-06-08
