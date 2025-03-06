@@ -4,7 +4,7 @@ authors:
 - Mingxuan Liu, Yunyi Zhang, Lijie Wu, Baojun Liu, Geng Hong, Yiming Zhang, Hui Jiang, Jia Zhang, Haixin Duan, Min Zhang, Wei Guan, Fan Shi, Min Yang
 date: "2025-01-24"
 
-publication: "The 34th USENIX Security Symposium (Security'25, CCF-A)"
+publication: "The 34th USENIX Security Symposium (USENIX Security'25, CCF-A)"
 
 links:
     coming_soon: https://ghong.site

@@ -12,7 +12,7 @@ num_news: 15
 
 news_items:
 
-- text: Our paper has been accepted by USENIX Security 25. Congratulations to Mingxuan.
+- text: Our paper has been accepted by USENIX Security 25. Congratulations to  Mingxuan.
   extra_text: "Jan 2025."
   date: 2025-01-25
 
