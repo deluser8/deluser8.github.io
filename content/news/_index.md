@@ -22,7 +22,7 @@ news_items:
   date: 2025-01-25
 
 
-- text: Our paper has been accepted by WWW 25 (oral). Congratulations to Maiwuwu XD! Not only is he a new-rising researcher, but he is also a talented singer-songwriter and photographer (see [His NetEase Cloud Music homepage](https://music.163.com/#/user?id=554128435)).
+- text: Our paper has been accepted by WWW 25 (oral). Congratulations to Maiwuwu XD! Not only is he a new-rising researcher, but he is also a talented singer-songwriter and photographer (see [His NetEase Cloud Music homepage](https://music.163.com/#/artist?id=12554858)).
   extra_text: "Jan 2025."
   date: 2025-01-20
 
