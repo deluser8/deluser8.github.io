@@ -13,11 +13,15 @@ num_news: 15
 news_items:
 
 
+- text: Our paper has been accepted by IMC 25. Congratulations to Yijing.
+  extra_text: "Mar 2025."
+  date: 2025-03-23
+
 - text: Attended the NDSS 2025 in San Diego, California. 
   extra_text: "Feb 2025."
   date: 2025-02-23
 
-- text: Our paper has been accepted by USENIX Security 25. Congratulations to  Mingxuan.
+- text: Our paper has been accepted by USENIX Security 25. Congratulations to Mingxuan.
   extra_text: "Jan 2025."
   date: 2025-01-25
 
