@@ -12,7 +12,7 @@ num_news: 15
 
 news_items:
 
-- text: Our paper has been accepted by USENIX Security 25. Congratulations to Jinsong and Mengying.
+- text: Our paper has been accepted by USENIX Security 25. Congratulations to Jinsong and [Mengying](https://funeoka-yumee.github.io/).
   extra_text: "May 2025."
   date: 2025-05-28
 
