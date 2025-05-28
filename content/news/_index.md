@@ -12,6 +12,10 @@ num_news: 15
 
 news_items:
 
+- text: Our paper has been accepted by USENIX Security 25. Congratulations to Jinsong and Mengying.
+  extra_text: "May 2025."
+  date: 2025-05-28
+
 
 - text: Our paper has been accepted by IMC 25. Congratulations to Yijing.
   extra_text: "Mar 2025."
