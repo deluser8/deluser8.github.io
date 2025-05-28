@@ -1,8 +1,9 @@
 ---
-title: "NOKEScam: Understanding and Rectifying Non-Sense Keywords Spear Scam in Search Engines"
+title: "Beyond Exploit Scanning: A Functional Change-Driven Approach to Remote Software Version Identification"
 authors:
 - Jinsong Chen, Mengying Wu, Geng Hong, Baichao An, Mingxuan Liu, Lei Zhang, Baojun Liu, Haixin Duan, Min Yang
 date: "2025-05-28"
+
 
 publication: "The 34th USENIX Security Symposium (USENIX Security'25, CCF-A)"
 
