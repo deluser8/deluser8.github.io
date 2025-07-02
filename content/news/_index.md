@@ -8,9 +8,13 @@ headless: true
 show_news_icons: true
 default_news_icon: "file-text"
 
-num_news: 15
+num_news: 20
 
 news_items:
+
+- text: Our paper has been accepted by ESORICS 25. Congratulations to Bingyang.
+  extra_text: "June 2025."
+  date: 2025-06-22
 
 - text: Our paper has been accepted by USENIX Security 25. Congratulations to Jinsong and [Mengying](https://funeoka-yumee.github.io/).
   extra_text: "May 2025."
