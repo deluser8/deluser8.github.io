@@ -12,6 +12,11 @@ num_news: 20
 
 news_items:
 
+
+- text: Our papers have been accepted by NDSS 26 (summer cycle). Congratulations to [Mengying](https://funeoka-yumee.github.io/).
+  extra_text: "Jul 2025."
+  date: 2025-7-3
+
 - text: Our paper has been accepted by ESORICS 25. Congratulations to Bingyang.
   extra_text: "June 2025."
   date: 2025-06-22
