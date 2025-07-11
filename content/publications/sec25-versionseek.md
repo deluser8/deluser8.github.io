@@ -8,9 +8,9 @@ date: "2025-05-28"
 publication: "The 34th USENIX Security Symposium (USENIX Security'25, CCF-A)"
 
 links:
-    coming_soon: https://ghong.site
-    # pdf: papers/ndss25fall-ipmirror.pdf
-    # code: https://github.com/deluser8/cmtracker
+    # coming_soon: https://ghong.site
+    pdf: papers/versionseek.pdf
+    code: https://zenodo.org/records/15833446
     # slides: https://github.com/hadisinaee/avicenna
     # video: https://www.youtube.com/watch?v=y10xPHZGs3M&list=PLn0nrSd4xjjbyUeai0oevMrT8_IwnBo4R
 
