@@ -12,6 +12,11 @@ num_news: 20
 
 news_items:
 
+- text: Honored to join the [Program Committee (PC)](https://aaai.org/conference/aaai/aaai-25/) of AAAI 2025. Warmly invite you to submit papers to our venue and hope to meet you in Philadelphia.
+  extra_text: "Aug 2025."
+  date: 2025-08-01
+
+
 
 - text: Our paper has been accepted by NDSS 26 (summer cycle). Congratulations to [Mengying](https://funeoka-yumee.github.io/) and hope to see you in San Diego.
   extra_text: "Jul 2025."
