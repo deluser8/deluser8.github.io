@@ -17,7 +17,7 @@ news_items:
   date: 2026-01-26
 
 
-- text: Our paper has been accepted by WWW 26. Congratulations to Pei Chen! An interesting measurement study—and a small flag: we submitted three WWW papers over the past three years, and all three were accepted. If I stop here, our acceptance rate at WWW is 100%.
+- text: Our paper has been accepted by WWW 26. Congratulations to Pei Chen! An interesting measurement study—and a small flag. We submitted three WWW papers over the past three years, and all three were accepted. If I stop here, our acceptance rate at WWW is 100\%.
   extra_text: "Jan 2026."
   date: 2025-01-10
 
