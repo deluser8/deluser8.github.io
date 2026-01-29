@@ -1,16 +1,16 @@
 ---
-title: "Beyond Exploit Scanning: A Functional Change-Driven Approach to Remote Software Version Identification"
+title: "When Fun Turns Toxic: A First Look at Aggressive Advertising in Mini-games"
 authors:
-- Jinsong Chen, Mengying Wu, Geng Hong, Baichao An, Mingxuan Liu, Lei Zhang, Baojun Liu, Haixin Duan, Min Yang
-date: "2025-05-28"
+- Pei Chen, Geng Hong, Yicheng Qin, Huazhe Wang, Mengying Wu, Min Yang, Ziru Zhao, Yuanpeng Zhu, Tao Su
+date: "2025-12-20"
 
 
-publication: "The 34th USENIX Security Symposium (USENIX Security'25, CCF-A)"
+publication: "The 35th USENIX Security Symposium (USENIX Security'26, CCF-A)"
 
 links:
     # coming_soon: https://ghong.site
-    pdf: papers/sec25-versionseek.pdf
-    code: https://zenodo.org/records/15833446
+    pdf: papers/sec26-minigame.pdf
+    # code: https://zenodo.org/records/15833446
     # slides: https://github.com/hadisinaee/avicenna
     # video: https://www.youtube.com/watch?v=y10xPHZGs3M&list=PLn0nrSd4xjjbyUeai0oevMrT8_IwnBo4R
 
