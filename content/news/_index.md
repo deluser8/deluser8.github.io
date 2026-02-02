@@ -12,14 +12,19 @@ num_news: 20
 
 news_items:
 
-- text: Our two papers has been accepted by ICLR 26. Congratulations to Xinyi Wu.
+- text: Our paper has been accepted by ICLR 26. Congratulations to Xinyi Wu.
   extra_text: "Jan 2026."
   date: 2026-01-26
-
 
 - text: Our paper has been accepted by WWW 26. Congratulations to Pei Chen! An interesting measurement study—and a small flag. We submitted three WWW papers over the past three years, and all three were accepted. If I stop here, our acceptance rate at WWW is 100\%.
   extra_text: "Jan 2026."
   date: 2026-01-10
+
+- text: Honored to join the [Program Committee (PC)](https://www.usenix.org/conference/usenixsecurity26/call-for-artifacts) of USENIX Security 2026. Warmly invite you to submit papers to our venue and hope to meet you in Baltimore.
+  extra_text: "Jan 2026."
+  date: 2026-01-02
+
+
 
 - text: Our two papers has been accepted by USENIX Security 26. Congratulations to Pei Chen and Jiaqi Luo.
   extra_text: "Dec 2025."
