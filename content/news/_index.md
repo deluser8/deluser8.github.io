@@ -19,7 +19,7 @@ news_items:
 
 - text: Our paper has been accepted by WWW 26. Congratulations to Pei Chen! An interesting measurement study—and a small flag. We submitted three WWW papers over the past three years, and all three were accepted. If I stop here, our acceptance rate at WWW is 100\%.
   extra_text: "Jan 2026."
-  date: 2025-01-10
+  date: 2026-01-10
 
 - text: Our two papers has been accepted by USENIX Security 26. Congratulations to Pei Chen and Jiaqi Luo.
   extra_text: "Dec 2025."
@@ -34,7 +34,7 @@ news_items:
 
 - text: Our paper has been accepted by NDSS 26 (summer cycle). Congratulations to [Mengying](https://funeoka-yumee.github.io/) and hope to see you in San Diego.
   extra_text: "Jul 2025."
-  date: 2025-7-3
+  date: 2025-07-03
 
 - text: Our paper has been accepted by ESORICS 25. Congratulations to Bingyang.
   extra_text: "June 2025."
