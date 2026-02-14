@@ -1,7 +1,7 @@
 ---
 title: "One Step from Silicon Life: Autonomous AI Agents Capable of Uncontrolled Self-Proliferation"
 authors:
-- Geng Hong*, Xudong Pan*, Jiarun Dai, Jiaqi Luo, Wuyuao Mai, Min Yang**
+- Geng Hong*, Xudong Pan*, Jiarun Dai*, Jiaqi Luo, Wuyuao Mai, Min Yang**
 date: "2026-02-02"
 
 publication: "Nvwa Project"
