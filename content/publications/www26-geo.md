@@ -7,7 +7,7 @@ date: "2026-01-13"
 publication: "The Web Conference 2026 (ACM WWW 26, CCF-A)"
 
 links:
-    pdf: papers/www26-geo.pdf
+    pdf: papers/www26-llmseo.pdf
     # coming_soon: https://ghong.site/
     # code: https://github.com/deluser8/cmtracker
     # slides: https://github.com/hadisinaee/avicenna

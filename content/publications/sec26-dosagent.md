@@ -9,7 +9,7 @@ publication: "The 35th USENIX Security Symposium (USENIX Security'26, CCF-A)"
 
 links:
     # coming_soon: https://ghong.site
-    pdf: papers/sec26-dosagent.pdf
+    pdf: papers/sec26-agentdos.pdf
     # code: https://zenodo.org/records/15833446
     # slides: https://github.com/hadisinaee/avicenna
     # video: https://www.youtube.com/watch?v=y10xPHZGs3M&list=PLn0nrSd4xjjbyUeai0oevMrT8_IwnBo4R
