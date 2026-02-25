@@ -12,6 +12,11 @@ num_news: 20
 
 news_items:
 
+- text: Our paper [One Email, Many Faces: A Deep Dive into Identity Confusion in Email Aliases] has been awared as the Best Paper Award by NDSS 26. Congratulations to [Mengying](https://funeoka-yumee.github.io/).
+  extra_text: "Feb 2026."
+  date: 2026-02-25
+
+
 - text: Our paper has been accepted by ICLR 26. Congratulations to Xinyi Wu.
   extra_text: "Jan 2026."
   date: 2026-01-26

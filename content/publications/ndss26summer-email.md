@@ -4,12 +4,12 @@ authors:
 - Mengying Wu, Geng Hong, Jiatao Chen, Mingxuan Liu, Baojun Liu, Min Yang
 date: "2025-07-03"
 
-publication: "the Network and Distributed System Security (NDSS) Symposium 2026 (NDSS'26, CCF-A)"
+publication: "the Network and Distributed System Security (NDSS) Symposium 2026 (NDSS'26, CCF-A) *Best Paper Award*"
 
 links:
     pdf: papers/ndss26summer-email.pdf
     # coming_soon: https://ghong.site
-    # code: https://github.com/deluser8/cmtracker
+    code: https://github.com/lab-rynth/OriginMail
     # slides: https://github.com/hadisinaee/avicenna
     # video: https://www.youtube.com/watch?v=y10xPHZGs3M&list=PLn0nrSd4xjjbyUeai0oevMrT8_IwnBo4R
 
