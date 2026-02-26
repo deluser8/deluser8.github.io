@@ -7,7 +7,7 @@ date: "2026-01-20"
 publication: "The Fourteenth International Conference on Learning Representations (ICLR 26)"
 
 links:
-    # pdf: papers/www26-geo.pdf
+    pdf: papers/iclr26-prison.pdf
     # coming_soon: https://ghong.site/
     # code: https://github.com/deluser8/cmtracker
     # slides: https://github.com/hadisinaee/avicenna
