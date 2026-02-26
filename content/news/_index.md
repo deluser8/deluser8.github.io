@@ -17,7 +17,7 @@ news_items:
   date: 2026-02-25
 
 
-- text: Our paper has been accepted by ICLR 26. Congratulations to [Xinyi Wu](https://janx0102.github.io/).
+- text: Our paper has been accepted by ICLR 26. Congratulations to [Xinyi](https://janx0102.github.io/).
   extra_text: "Jan 2026."
   date: 2026-01-26
 
